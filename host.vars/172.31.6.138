@@ -1,1 +1,1 @@
-webserveronubuntu: openjdk-8-jre
+webserveronubuntu= openjdk-8-jre

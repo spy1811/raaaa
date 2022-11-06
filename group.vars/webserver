@@ -1,1 +1,1 @@
-webserveronubuntu: openjdk-11-jre
+webserveronubuntu= openjdk-11-jre
