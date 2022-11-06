@@ -4,5 +4,5 @@
   tasks: 
         - name: i want to install java on ubuntu
           apt:
-             name: "{{webserveronubuntu: openjdk-11-jre}}" 
+             name: "{{webserveronubuntu}}" 
              state: present
